@@ -21,7 +21,7 @@ BEM）等。这些方法都已相当完善和成熟，有不少算法及方程�
 * 验证静电场叠加定理
 
 ## 使用介绍
-![软件界面](\Repository\img\UI.jpg)
+![软件界面](https://github.com/lichengqi0805/FDM-Tool/blob/master/img/UI.jpg)
 
 ### 软件目录结构
 - Tool directory
@@ -46,4 +46,4 @@ data.dat 文件包含所有的输入参数
 `1;`
 `5; delta_V 划分电压差 (1代表间隔电压， 2代表 给定电压)`
 
-![可视化](\img\visual.gif)
+![可视化](https://github.com/lichengqi0805/FDM-Tool/blob/master/img/visual.gif)
